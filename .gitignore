@@ -1,7 +1,5 @@
 node_modules
 public/assets
-src/server/webpack-stats.json
 
-tmp/webpack-stats.json
 .env
 
