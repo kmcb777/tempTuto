@@ -1,0 +1,15 @@
+{
+  "verbose": true,
+  "watch": [
+    "src/apps",
+    "src/server",
+    "src/config",
+    "src/db",
+    "src/initializers",
+    "src/intl",
+    "src/utils",
+    "src/server",
+    "src/services",
+    "src/server.js"
+  ]
+}
